@@ -151,8 +151,8 @@ i {
     .main {
         height:630px;
         width: 270px; /* Use percentage for fluid width */
-        margin-top: 100px;
-        margin-left: 40px;
+        margin-top: 50px;
+        margin-left: 80px;
     }
 
     .main1, .main2 {
